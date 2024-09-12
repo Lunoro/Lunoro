@@ -13,3 +13,8 @@ Other            0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
