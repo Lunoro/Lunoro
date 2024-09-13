@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 5 minutes
-    - cron: "*/5 * * * *"
+    - cron: '30 18 * * *'
 
 jobs:
   update-readme:
@@ -17,11 +17,11 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api # optional
           # content
-          SECTION_TITLE: "Some unnecessary stats of me"
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
           IGNORED_LANGUAGES: YAML JSON TOML XML Binary # optional
+          SHOW_EDITORS: True
           SHOW_OS: True
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
