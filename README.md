@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
 Java             2 hrs 53 mins   ████████████████████▒░░░░   81.94 %
 C++              28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
