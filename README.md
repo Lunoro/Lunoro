@@ -1,5 +1,7 @@
 ### Hi nice to meet you 😉 
 
+I do pc's and stuff, sometimes
+
 <!--START_SECTION:waka-->
 
 ```txt
