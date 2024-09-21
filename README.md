@@ -5,13 +5,13 @@ I do pc's and stuff, sometimes
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-C++              24 mins         █████████▓░░░░░░░░░░░░░░░   38.46 %
-Bash             12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-hyprlang         10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-INI              5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-jsonc            3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+jsonc        37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+C++          27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+CSS          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+hyprlang     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Bash         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
 ```
 
 <!--END_SECTION:waka-->
