@@ -1,6 +1,6 @@
 ### Hi nice to meet you 😉 
 
-## Currently messing with
+### Currently messing with
   - C / C++
   - Linux
   - Low level game development
