@@ -1,6 +1,9 @@
 ### Hi nice to meet you 😉 
 
-I do pc's and stuff, sometimes
+## Currently messing with
+  - C / C++
+  - Linux
+  - Low level game development
 
 <!--START_SECTION:waka-->
 
