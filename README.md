@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
 Java   13 mins         █████████████████▓░░░░░░░   70.67 %
 HTML   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
