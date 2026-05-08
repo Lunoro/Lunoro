@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2026 - To: 06 May 2026
+From: 30 April 2026 - To: 07 May 2026
 
-Kotlin            1 hr 6 mins           ███████████░░░░░░░░░░░░░░   44.35 %
-Java              50 mins               ████████▒░░░░░░░░░░░░░░░░   33.22 %
-Properties        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Java Properties   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Java              49 mins               ███████████▓░░░░░░░░░░░░░   47.33 %
+Kotlin            29 mins               ███████░░░░░░░░░░░░░░░░░░   27.70 %
+Properties        5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Java Properties   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 ```
 
 <!--END_SECTION:waka-->
