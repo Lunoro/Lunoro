@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Java              1 hr 3 mins           █████████████▒░░░░░░░░░░░   53.44 %
-Kotlin            29 mins               ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-Properties        5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Java Properties   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Java              4 hrs 31 mins         ███████████████████▒░░░░░   77.53 %
+Kotlin            29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Properties        12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Gradle            5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
