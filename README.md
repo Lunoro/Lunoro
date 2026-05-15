@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Java                       10 hrs 19 mins        █████████████████████▒░░░   85.19 %
-Kotlin                     29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Properties                 12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Mixin Json Configuration   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Java                       9 hrs 29 mins         ███████████████████████░░   91.59 %
+Mixin Json Configuration   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Properties                 6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Gradle                     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
