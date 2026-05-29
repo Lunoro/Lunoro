@@ -8,12 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2026 - To: 26 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
-Java                       1 hr 39 mins          ████████████████████████▓   98.90 %
-Gradle                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java                       4 mins                ████████████████████░░░░░   80.19 %
+Gradle                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
