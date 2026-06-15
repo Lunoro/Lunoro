@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
-Java                       1 hr 2 mins           ██████████████████████▓░░   90.51 %
-GitIgnore file             4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Kotlin                     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Gradle                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java                       46 mins               ████████████████████████▓   98.88 %
+Gradle                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Markdown                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
