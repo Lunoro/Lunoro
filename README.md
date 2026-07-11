@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 09 July 2026
+From: 03 July 2026 - To: 10 July 2026
 
-Java                       2 hrs 12 mins         █████████████████████▓░░░   86.11 %
-Gradle                     16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Groovy                     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Properties                 0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java                       2 hrs 24 mins         █████████████████████▓░░░   87.07 %
+Gradle                     16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Groovy                     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Properties                 0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
