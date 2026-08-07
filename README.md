@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Java              5 hrs 15 mins         ███████████████████▓░░░░░   78.30 %
-Kotlin            31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-CSS               10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Java module       8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Java              27 mins               ████████████████████▓░░░░   82.80 %
+Kotlin            5 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+CSS               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Java module       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
