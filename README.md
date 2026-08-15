@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-Java     1 hr 16 mins          ██████████████████████▒░░   89.50 %
-Groovy   8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Gradle   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java     3 hrs 15 mins         ███████████████████████░░   92.66 %
+Groovy   10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Gradle   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
