@@ -8,13 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Java                       4 hrs 30 mins         ███████████████████████▒░   92.80 %
-Java Properties            9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Properties                 6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-GitIgnore file             3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Kotlin                     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java                       5 hrs 15 mins         ███████████████████████░░   91.63 %
+GitIgnore file             28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Mixin Json Configuration   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown                   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
