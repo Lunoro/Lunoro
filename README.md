@@ -8,12 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2026 - To: 30 September 2026
+From: 24 September 2026 - To: 01 October 2026
 
-Java              1 hr 3 mins           █████████████████████████   99.96 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Properties        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Rust             40 mins               █████████████▒░░░░░░░░░░░   53.32 %
+Java             29 mins               █████████▓░░░░░░░░░░░░░░░   38.88 %
+Gradle           4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+GitIgnore file   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Groovy           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
