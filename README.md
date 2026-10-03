@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Rust             40 mins               █████████████▒░░░░░░░░░░░   53.32 %
-Java             29 mins               █████████▓░░░░░░░░░░░░░░░   38.88 %
-Gradle           4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-GitIgnore file   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Groovy           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Rust             1 hr 55 mins          █████████████████▓░░░░░░░   70.99 %
+Java             29 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+GitIgnore file   7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Gradle           4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+.env file        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
