@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Rust             15 hrs 22 mins        █████████████████████▓░░░   86.70 %
-Java             1 hr 46 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-GitIgnore file   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Gradle           4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Rust             16 hrs 35 mins        █████████████████████░░░░   83.62 %
+Java             1 hr 55 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+C++              40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+GitIgnore file   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
