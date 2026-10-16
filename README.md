@@ -8,13 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-C++                        3 hrs 24 mins         █████████▒░░░░░░░░░░░░░░░   37.80 %
-Java                       3 hrs 20 mins         █████████▒░░░░░░░░░░░░░░░   37.08 %
-Rust                       1 hr 54 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-CMake                      4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Groovy                     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Java                       4 hrs 42 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
+C++                        3 hrs 8 mins          ███████░░░░░░░░░░░░░░░░░░   28.12 %
+Rust                       1 hr 48 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+GitIgnore file             11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
