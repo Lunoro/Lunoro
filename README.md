@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2026 - To: 23 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
-Java                       6 hrs 1 min           ███████████████▒░░░░░░░░░   61.54 %
-C++                        1 hr 26 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-CMake                      21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Java                       5 hrs 28 mins         ███████████████░░░░░░░░░░   59.98 %
+C++                        1 hr 26 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+CMake                      21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
